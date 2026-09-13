@@ -53,7 +53,7 @@ The project followed a design-to-manufacturing workflow:
 | Manufacturing | CNC Machine |
 | Machining | Lathe |
 | Machining | Milling Machine |
-| Materials | Metal |
+| Materials | Aluminium, Steel, Brass |
 
 ## Skills Developed
 
